@@ -1,0 +1,258 @@
+Object: Reach the last space on the board, which is labeled Home.
+Players: 2 - 6 players
+
+Rules:
+1. PLayer with the shortes first name goes first.
+2. Players take turns in order until one player wins.
+3. A turn consists of picking a card. If the card has a number, the player moves that number of spaces.
+4. If the card says 'lose turn,' the player does nothing, and the game continues with the next player.
+5. If the card says 'switch places,' the player must switch places with another player.
+6. If the player lands on an obstacle, the player moves back 0-4 spaces.
+7. If you land on a spot where another player is, the one that just landed moves back to home.
+8. If your poistion is over 21, move back how many spaces you are over 21 by.
+9. When you land on Go again, you get to go again.
+10. If you land on and obstcle and you move back spaces and land on Go Again, You cannot go again.
+
+How many players will be playing (at most 6)? 6
+
+How many spaces you want on the board? 10
+
+How many obstacles do you want on the board? 2
+
+Whats the biggest obstacle you want? 3
+
+Enter Player 1's Name: Ying
+Enter Player 2's Name: B
+Enter Player 3's Name: C
+Enter Player 4's Name: D
+Enter Player 5's Name: E
+Enter Player 6's Name: F
+
+This is Your following game board.
+Number Zero represent regular board space.
+Number One represent and obstacle space.
+Number two represent the 'Go Again' spaces.
+Number Three represent the biggest obsticle.
+0 0 1 0 0 1 0 0 0 0
+
+The current players are:
+Player 1 is: B
+Player 2 is: C
+Player 3 is: D
+Player 4 is: E
+Player 5 is: F
+Player 6 is: Ying
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+Ying is in postion 0
+
+It's B / Player 1's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+Ying is in postion 0
+
+It's C / Player 2's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+Ying is in postion 0
+
+It's D / Player 3's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+Ying is in postion 0
+
+It's E / Player 4's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+Ying is in postion 0
+
+It's F / Player 5's turn
+You are moving 4 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 4
+Ying is in postion 0
+
+It's Ying / Player 6's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 4
+Ying is in postion 0
+
+It's B / Player 1's turn
+You are moving 3 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 4
+Ying is in postion 0
+
+It's C / Player 2's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 4
+Ying is in postion 0
+
+It's D / Player 3's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 4
+Ying is in postion 0
+
+It's E / Player 4's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 4
+Ying is in postion 0
+
+It's F / Player 5's turn
+You are moving 4 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 8
+Ying is in postion 0
+
+It's Ying / Player 6's turn
+You are moving 4 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 8
+Ying is in postion 4
+
+It's B / Player 1's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 8
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 3
+Ying is in postion 4
+
+It's C / Player 2's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 8
+D is in postion 0
+E is in postion 0
+F is in postion 3
+Ying is in postion 4
+
+It's D / Player 3's turn
+You are moving 1 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 8
+D is in postion 1
+E is in postion 0
+F is in postion 3
+Ying is in postion 4
+
+It's E / Player 4's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 8
+D is in postion 1
+E is in postion 0
+F is in postion 3
+Ying is in postion 4
+
+It's F / Player 5's turn
+You are moving 3 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 8
+D is in postion 1
+E is in postion 0
+F is in postion 6
+Ying is in postion 4
+
+It's Ying / Player 6's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion 0
+C is in postion 8
+D is in postion 1
+E is in postion 0
+F is in postion 6
+Ying is in postion 3
+
+It's B / Player 1's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players? Y(for yes N for no): y
+B is in postion -1
+C is in postion 8
+D is in postion 1
+E is in postion 0
+F is in postion 6
+Ying is in postion 3
+
+It's C / Player 2's turn
+You are moving 2 spaces
+THE WINNIER IS C

@@ -1,0 +1,1421 @@
+Object Reach the last space on the board, which is labeled Home.
+Players 2 - 6 players
+
+Rules
+1. PLayer with the shortes first name goes first.
+2. Players take turns in order until one player wins.
+3. A turn consists of picking a card. If the card has a number, the player moves that number of spaces.
+4. If the card says 'lose turn,' the player does nothing, and the game continues with the next player.
+5. If the card says 'switch places,' the player must switch places with another player.
+6. If the player lands on an obstacle, the player moves back 0-4 spaces.
+7. If you land on a spot where another player is, the one that just landed moves back to home.
+8. If your poistion is over 21, move back how many spaces you are over 21 by.
+9. When you land on Go again, you get to go again.
+10. If you land on and obstcle and you move back spaces and land on Go Again, You cannot go again.
+
+How many players will be playing (at most 6) 6
+
+How many spaces you want on the board 21
+
+How many obstacles do you want on the board 7
+
+Whats the biggest obstacle you want 5
+
+Enter Player 1's Name A
+Enter Player 2's Name B
+Enter Player 3's Name C
+Enter Player 4's Name D
+Enter Player 5's Name E
+Enter Player 6's Name F
+
+This is Your following game board.
+Number Zero represent regular board space.
+Number One represent and obstacle space.
+Number two represent the 'Go Again' spaces.
+Number Three represent the biggest obsticle.
+0 0 0 0 1 1 0 2 0 0 1 0 1 0 0 1 0 1 0 0 1
+
+The current players are
+Player 1 is A
+Player 2 is B
+Player 3 is C
+Player 4 is D
+Player 5 is E
+Player 6 is F
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 0
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 3
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 4 spaces
+You get to go again !!!!!
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 0
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 0
+E is in postion 0
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 1
+E is in postion 0
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 1
+E is in postion 0
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 4
+B is in postion 11
+C is in postion 3
+D is in postion 1
+E is in postion 0
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 11
+C is in postion 3
+D is in postion 1
+E is in postion 0
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 3
+D is in postion 1
+E is in postion 0
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 4 spaces
+You get to go again !!!!!
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 1
+E is in postion 0
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 4
+E is in postion 0
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 4
+E is in postion 3
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 1 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 4
+E is in postion 3
+F is in postion 0
+
+It's A  Player 1's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 4
+E is in postion 3
+F is in postion 0
+
+It's B  Player 2's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 4
+E is in postion 3
+F is in postion 0
+
+It's C  Player 3's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 4
+E is in postion 3
+F is in postion 0
+
+It's D  Player 4's turn
+You Pick the card and it says Lose A Turn!
+ You hit a cone. You are Moving Back 1 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's E  Player 5's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 14
+C is in postion 11
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's F  Player 6's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 8
+B is in postion 0
+C is in postion 11
+D is in postion 0
+E is in postion 3
+F is in postion 14
+
+It's A  Player 1's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 14
+B is in postion 0
+C is in postion 11
+D is in postion 0
+E is in postion 3
+F is in postion 8
+
+It's B  Player 2's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 14
+C is in postion 11
+D is in postion 0
+E is in postion 3
+F is in postion 8
+
+It's C  Player 3's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 11
+C is in postion 14
+D is in postion 0
+E is in postion 3
+F is in postion 8
+
+It's D  Player 4's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 11
+C is in postion 0
+D is in postion 14
+E is in postion 3
+F is in postion 8
+
+It's E  Player 5's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 11
+C is in postion 0
+D is in postion 3
+E is in postion 14
+F is in postion 8
+
+It's F  Player 6's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 11
+C is in postion 0
+D is in postion 3
+E is in postion 14
+F is in postion 9
+
+It's A  Player 1's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 11
+C is in postion 0
+D is in postion 3
+E is in postion 14
+F is in postion 9
+
+It's B  Player 2's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 10
+C is in postion 0
+D is in postion 3
+E is in postion 14
+F is in postion 9
+
+It's C  Player 3's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 10
+C is in postion 0
+D is in postion 3
+E is in postion 14
+F is in postion 9
+
+It's D  Player 4's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 10
+C is in postion 0
+D is in postion 2
+E is in postion 14
+F is in postion 9
+
+It's E  Player 5's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 10
+C is in postion 0
+D is in postion 2
+E is in postion 13
+F is in postion 9
+
+It's F  Player 6's turn
+You are moving 3 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 1
+B is in postion 10
+C is in postion 0
+D is in postion 2
+E is in postion 13
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 3 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 10
+C is in postion 0
+D is in postion 2
+E is in postion 13
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 0
+D is in postion 2
+E is in postion 13
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 2
+E is in postion 13
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 3 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 2 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 2
+
+It's A  Player 1's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 2
+
+It's B  Player 2's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 2
+
+It's C  Player 3's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 2
+
+It's D  Player 4's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 2
+
+It's E  Player 5's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 13
+F is in postion 2
+
+It's F  Player 6's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 2
+F is in postion 13
+
+It's A  Player 1's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 13
+B is in postion 0
+C is in postion 3
+D is in postion 0
+E is in postion 2
+F is in postion 0
+
+It's B  Player 2's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 13
+C is in postion 3
+D is in postion 0
+E is in postion 2
+F is in postion 0
+
+It's C  Player 3's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 3
+C is in postion 13
+D is in postion 0
+E is in postion 2
+F is in postion 0
+
+It's D  Player 4's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 3
+C is in postion 0
+D is in postion 13
+E is in postion 2
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 3
+C is in postion 0
+D is in postion 13
+E is in postion 0
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 3
+C is in postion 0
+D is in postion 13
+E is in postion 0
+F is in postion 1
+
+It's A  Player 1's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 3
+C is in postion 0
+D is in postion 13
+E is in postion 0
+F is in postion 1
+
+It's B  Player 2's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 2
+C is in postion 0
+D is in postion 13
+E is in postion 0
+F is in postion 1
+
+It's C  Player 3's turn
+You are moving 1 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 2
+C is in postion 0
+D is in postion 13
+E is in postion 0
+F is in postion 1
+
+It's D  Player 4's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 2
+C is in postion 0
+D is in postion 13
+E is in postion 0
+F is in postion 1
+
+It's E  Player 5's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 2
+C is in postion 0
+D is in postion 0
+E is in postion 13
+F is in postion 1
+
+It's F  Player 6's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 2
+C is in postion 0
+D is in postion 0
+E is in postion 1
+F is in postion 13
+
+It's A  Player 1's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 13
+B is in postion 2
+C is in postion 0
+D is in postion 0
+E is in postion 1
+F is in postion 0
+
+It's B  Player 2's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 13
+C is in postion 0
+D is in postion 0
+E is in postion 1
+F is in postion 0
+
+It's C  Player 3's turn
+You Pick the card and it Switch Postions with the furthest player!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 1
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 1
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 2 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 13
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 15
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 15
+D is in postion 0
+E is in postion 3
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 4 spaces
+You get to go again !!!!!
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 15
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 2 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 2
+B is in postion 0
+C is in postion 15
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 15
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's B  Player 2's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 15
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's C  Player 3's turn
+You Pick the card and it says Lose A Turn!
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 12
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's D  Player 4's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 12
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's E  Player 5's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 12
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's F  Player 6's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 12
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's A  Player 1's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 12
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's B  Player 2's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 12
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's C  Player 3's turn
+You Pick the card and it says Lose A Turn!
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's D  Player 4's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's E  Player 5's turn
+You Pick the card and it says Lose A Turn!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 6
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 3
+
+It's A  Player 1's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 3
+
+It's B  Player 2's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 3
+
+It's C  Player 3's turn
+You are moving 3 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 3
+
+It's D  Player 4's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 11
+F is in postion 3
+
+It's E  Player 5's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 14
+F is in postion 3
+
+It's F  Player 6's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 14
+F is in postion 6
+
+It's A  Player 1's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 3
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 14
+F is in postion 6
+
+It's B  Player 2's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 3
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 14
+F is in postion 6
+
+It's C  Player 3's turn
+You are moving 3 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 3
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 14
+F is in postion 6
+
+It's D  Player 4's turn
+You are moving 3 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 3
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 14
+F is in postion 6
+
+It's E  Player 5's turn
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 3
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 18
+F is in postion 6
+
+It's F  Player 6's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 3
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 18
+F is in postion 7
+
+It's A  Player 1's turn
+You are moving 4 spaces
+You get to go again !!!!!
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 11
+B is in postion 0
+C is in postion 9
+D is in postion 0
+E is in postion 18
+F is in postion 7
+
+It's B  Player 2's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 11
+B is in postion 1
+C is in postion 9
+D is in postion 0
+E is in postion 18
+F is in postion 7
+
+It's C  Player 3's turn
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 11
+B is in postion 1
+C is in postion 13
+D is in postion 0
+E is in postion 18
+F is in postion 7
+
+It's D  Player 4's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 11
+B is in postion 1
+C is in postion 13
+D is in postion 0
+E is in postion 18
+F is in postion 7
+
+It's E  Player 5's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 3 spaces!
+Do You want to see the position of all the players Y(for yes N for no) A is in postion 11
+B is in postion 1
+C is in postion 13
+D is in postion 0
+E is in postion 17
+F is in postion 7
+
+It's F  Player 6's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 11
+B is in postion 1
+C is in postion 13
+D is in postion 0
+E is in postion 17
+F is in postion 0
+
+It's A  Player 1's turn
+You are moving 1 spaces
+ You hit a cone. You are Moving Back 0 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 12
+B is in postion 1
+C is in postion 13
+D is in postion 0
+E is in postion 17
+F is in postion 0
+
+It's B  Player 2's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 12
+B is in postion 2
+C is in postion 13
+D is in postion 0
+E is in postion 17
+F is in postion 0
+
+It's C  Player 3's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 12
+B is in postion 2
+C is in postion 14
+D is in postion 0
+E is in postion 17
+F is in postion 0
+
+It's D  Player 4's turn
+You are moving 1 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 12
+B is in postion 2
+C is in postion 14
+D is in postion 1
+E is in postion 17
+F is in postion 0
+
+It's E  Player 5's turn
+You are moving 3 spaces
+ You hit a cone. You are Moving Back 0 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 12
+B is in postion 2
+C is in postion 14
+D is in postion 1
+E is in postion 20
+F is in postion 0
+
+It's F  Player 6's turn
+You are moving 3 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 12
+B is in postion 2
+C is in postion 14
+D is in postion 1
+E is in postion 20
+F is in postion 3
+
+It's A  Player 1's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 2
+C is in postion 14
+D is in postion 1
+E is in postion 20
+F is in postion 3
+
+It's B  Player 2's turn
+You are moving 2 spaces
+ You hit a cone. You are Moving Back 0 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 4
+C is in postion 14
+D is in postion 1
+E is in postion 20
+F is in postion 3
+
+It's C  Player 3's turn
+You are moving 4 spaces
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 4
+C is in postion 18
+D is in postion 1
+E is in postion 20
+F is in postion 3
+
+It's D  Player 4's turn
+You are moving 4 spaces
+ You hit a cone. You are Moving Back 0 spaces!
+Do You want to see the position of all the players Y(for yes N for no) y
+A is in postion 0
+B is in postion 4
+C is in postion 18
+D is in postion 5
+E is in postion 20
+F is in postion 3
+
+It's E  Player 5's turn
+You are moving 1 spaces
+THE WINNIER IS E

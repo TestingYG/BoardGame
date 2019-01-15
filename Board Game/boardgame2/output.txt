@@ -1,0 +1,252 @@
+Object: Reach the last space on the board, which is labeled Home.
+Players: 2 - 6 players
+
+Rules:
+1. PLayer with the shortes first name goes first.
+2. Players take turns in order until one player wins.
+3. A turn consists of picking a card. If the card has a number, the player moves that number of spaces.
+4. If the card says 'lose turn,' the player does nothing, and the game continues with the next player.
+5. If the card says 'switch places,' the player must switch places with furthest player.
+6. If the player lands on a space with a number, the player moves back that number of spaces.
+7. If you land on a spot where another player is, the one that just landed moves back to home.
+8. If your poistion is over 21, move back how many spaces you are over 21 by.
+
+How many players will be playing (at most 6)? 6
+Enter The Player 1's Name: jennifer
+Enter The Player 2's Name: amy
+Enter The Player 3's Name: allen
+Enter The Player 4's Name: jay
+Enter The Player 5's Name: ying
+Enter The Player 6's Name: stephen
+
+The current players are:
+Player 1 is: amy
+Player 2 is: jay
+Player 3 is: ying
+Player 4 is: allen
+Player 5 is: stephen
+Player 6 is: jennifer
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 0
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's amy / Player 1's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 1
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's jay / Player 2's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 1
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's ying / Player 3's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 1
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's allen / Player 4's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 1
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's stephen / Player 5's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 1
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's jennifer / Player 6's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 1
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's amy / Player 1's turn
+You are moving 3 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 4
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's jay / Player 2's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 4
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's ying / Player 3's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 4
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's allen / Player 4's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 4
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's stephen / Player 5's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 4
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's jennifer / Player 6's turn
+You are moving 4 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 4
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's amy / Player 1's turn
+You are moving 2 spaces
+You Hit A CONE!. You are moving back 1 spaces!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 5
+jay is in postion 0
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's jay / Player 2's turn
+You are moving 2 spaces
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 5
+jay is in postion 2
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's ying / Player 3's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 5
+jay is in postion 2
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's allen / Player 4's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 5
+jay is in postion 2
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's stephen / Player 5's turn
+You are moving 2 spaces
+YOU ARE IN THE SAME POSITION AS ANOTHER PLAYER, YOU GO HOME!
+
+Do You want to see the position of all the players? Y(for yes N for no): y
+amy is in postion 5
+jay is in postion 2
+ying is in postion 0
+allen is in postion 0
+stephen is in postion 0
+jennifer is in postion 0
+
+It's jennifer / Player 6's turn
+You are moving 3 spaces
+You Hit A CONE!. You are moving back 2 spaces!
+
+ 

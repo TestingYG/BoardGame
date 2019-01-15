@@ -1,0 +1,175 @@
+Object: Reach the last space on the board, which is labeld Home.
+Players: 2 - 4 players
+
+Rules:
+1. PLayer with the shortes first name goes first.
+2. Players take turns in order until one player wins.
+3. A turn consists of picking a card. If the card has a number, the player moves that number of spaces.
+4. If the card says 'lose turn,' the player does nothing, and the game continues with the next player.
+5. If the card says 'switch places,' the player must switch places with another player.
+6. If the player lands on a space with a number, the player moves back that number of spaces.
+
+Who is player one? Enter there name: Ying
+Who is player two? enter there name: Bob
+
+Player Two Goes First
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 0
+Player two is in poistion 0
+
+Its Bob's turn
+You are moving 1 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 0
+Player two is in poistion 1
+
+Its Ying's turn
+You are moving 4 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 4
+Player two is in poistion 1
+
+Its Bob's turn
+You are moving 3 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 4
+Player two is in poistion 4
+
+Its Ying's turn
+You are moving 1 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 5
+Player two is in poistion 4
+
+Its Bob's turn
+You Pick the card and it Switch Postions with the other player!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 4
+Player two is in poistion 5
+
+Its Ying's turn
+You are moving 3 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 7
+Player two is in poistion 5
+
+Its Bob's turn
+You Pick the card and it says Lose A Turn!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 7
+Player two is in poistion 5
+
+Its Ying's turn
+You Pick the card and it says Lose A Turn!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 7
+Player two is in poistion 5
+
+Its Bob's turn
+You are moving 2 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 7
+Player two is in poistion 7
+
+Its Ying's turn
+You are moving 3 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 10
+Player two is in poistion 7
+
+Its Bob's turn
+You are moving 3 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 10
+Player two is in poistion 10
+
+Its Ying's turn
+You are moving 3 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 13
+Player two is in poistion 10
+
+Its Bob's turn
+You are moving 1 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 13
+Player two is in poistion 11
+
+Its Ying's turn
+You are moving 4 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 17
+Player two is in poistion 11
+
+Its Bob's turn
+You are moving 1 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 17
+Player two is in poistion 12
+
+Its Ying's turn
+You are moving 1 spaces
+You Hit a Cone. Move Back 2 Spaces!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 16
+Player two is in poistion 12
+
+Its Bob's turn
+You are moving 3 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 16
+Player two is in poistion 15
+
+Its Ying's turn
+You are moving 2 spaces
+You Hit a Cone. Move Back 2 Spaces!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 16
+Player two is in poistion 15
+
+Its Bob's turn
+You are moving 4 spaces
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 16
+Player two is in poistion 19
+
+Its Ying's turn
+You are moving 4 spaces
+You Hit a Cone. Move Back 1 Spaces!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 19
+Player two is in poistion 19
+
+Its Bob's turn
+You are moving 1 spaces
+You Hit a Cone. Move Back 1 Spaces!
+
+Do You want to see the position of the Players? Enter y for Yes and n for No : y
+Player one is in poistion 19
+Player two is in poistion 19
+
+Its Ying's turn
+You are moving 3 spaces
+
+THE WINNER IS Ying!!!!!
